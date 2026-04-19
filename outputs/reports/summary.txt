@@ -1,0 +1,6 @@
+=== Climate Trend Summary ===
+Total Days Analyzed: 8766
+Max Temperature Recorded: 44.55°C
+Min Temperature Recorded: 9.77°C
+Average Yearly Temperature: 25.76°C
+Total Anomalies Detected: 88
